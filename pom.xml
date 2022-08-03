@@ -38,6 +38,10 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.javafx.web</groupId>-->
+<!--            <artifactId>javafx-web</artifactId>-->
+<!--        </dependency>-->
     </dependencies>
 
     <build>
